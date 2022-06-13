@@ -2,7 +2,7 @@
 <asset:javascript src="index.js"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenLite.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/CSSPlugin.min.js"></script>
-
+<%--reference: https://codepen.io/isladjan/pen/abdyPBw--%>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500" preserveAspectRatio="xMidYMax slice">
     <defs>
         <!-- Scene 1 Gradient -->
