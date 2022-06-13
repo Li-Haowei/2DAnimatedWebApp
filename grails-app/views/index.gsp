@@ -1,3 +1,8 @@
+<asset:stylesheet src="index.css"/>
+<asset:javascript src="index.js"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/CSSPlugin.min.js"></script>
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500" preserveAspectRatio="xMidYMax slice">
     <defs>
         <!-- Scene 1 Gradient -->
@@ -324,5 +329,5 @@
 
 <div class="scrollElement"></div>
 
-<a href="https://codepen.io/collection/DxkYzq" target="_blank" class="btn btn_works">My Works</a>
+<a href="https://github.com/Li-Haowei" target="_blank" class="btn btn_works">My Works</a>
 <button class="btn" id="fullscr">Go Fullscreen</button>
