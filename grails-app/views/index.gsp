@@ -1,5 +1,10 @@
 <asset:stylesheet src="index.css"/>
 <asset:javascript src="index.js"/>
+
+<head>
+    <title>Infinite Galaxy</title>
+</head>
+
 <div class="scene">
     <div class="wrap">
         <div class="wall wall-right"></div>
