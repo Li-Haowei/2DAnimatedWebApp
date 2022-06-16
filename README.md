@@ -6,4 +6,3 @@ Utilizing @keyframes and transform in CSS, the project is able to be done in les
 
 <h1>Result</h1>
 <img src="infinite_galaxy.gif"></img>
-<h1>Reference</h1>
